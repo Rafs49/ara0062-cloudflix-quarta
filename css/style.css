@@ -1,0 +1,26 @@
+ main p {
+        font-family: Georgia;
+        text-align: justify;
+        color: darkred;
+
+     }
+     .texto-do-rodape{
+      font-family: Arial;
+      font-size: smaller;
+      text-align: justify;
+      color: darkgray;
+     }
+
+     #nav-selec {
+      background-color: cadetblue;
+      font-style: italic;
+      font-family: Verdana;
+      color: white;
+     }
+     #nav-option{
+        background-color: darkred;
+      font-style: italic;
+      font-family: Verdana;
+      color: white;
+     }
+     
